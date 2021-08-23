@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 const LoginPage = () => {
     return (
       
-     <div className="container teal #e3f2fd blue lighten-5"> 
+     <div className="container teal #e3f2fd pink lighten-5"> 
        <br />
          <h3 className="#2962ff-text blue-text text-darken-2"><i class="material-icons">offline_pin</i>LOGIN</h3>
        <hr/>
