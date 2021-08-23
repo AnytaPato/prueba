@@ -10,7 +10,7 @@ const AuthRouter = () => {
          <Switch>
              <Route exact path="/login" component= {LoginPage} />
              <Route exact to="/register" component= {RegisterPage} />
-         </Switch>
+             </Switch>
      </Router>
  )
 }
