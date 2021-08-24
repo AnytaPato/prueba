@@ -16,7 +16,7 @@ const RegisterPage = () => {
            <form className="col s12">
            <div className="row">
            <div className="input-field col s12">
-             <i className="material-icons prefix"></i>
+             <i className="material-icons prefix">accessibility</i>
              <input 
              id="icon_prefix2" 
              className="materialize-textarea"
@@ -26,7 +26,7 @@ const RegisterPage = () => {
                  Nombre y apellido</label>
            </div>
            <div className="input-field col s12">
-             <i className="material-icons prefix"></i>
+             <i className="material-icons prefix">call</i>
              <input 
              id="icon_prefix2" 
              className="materialize-textarea"
@@ -36,7 +36,7 @@ const RegisterPage = () => {
                 Nùmero de teléfono </label>
            </div>
            <div className="input-field col s12">
-             <i className="material-icons prefix"></i>
+             <i className="material-icons prefix">edit_location</i>
              <input 
              id="icon_prefix2" 
              className="materialize-textarea"
@@ -47,7 +47,7 @@ const RegisterPage = () => {
            </div>
    
            <div className="input-field col s12">
-             <i className="material-icons prefix"></i>
+             <i className="material-icons prefix">flag</i>
              <input 
              id="icon_prefix2" 
              className="materialize-textarea"
@@ -58,7 +58,7 @@ const RegisterPage = () => {
            </div>
 
            <div className="input-field col s12">
-             <i className="material-icons prefix"></i>
+             <i className="material-icons prefix">email</i>
              <input 
              id="icon_prefix2" 
              className="materialize-textarea"
@@ -69,7 +69,8 @@ const RegisterPage = () => {
            </div>
 
            <div className="input-field col s12">
-             <i className="material-icons prefix"></i>
+             <i className="material-icons prefix">enhanced_encryption
+</i>
              <input 
              id="icon_prefix2" 
              className="materialize-textarea"
