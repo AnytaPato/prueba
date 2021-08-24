@@ -4,10 +4,11 @@ import {Link} from "react-router-dom";
 
 const LoginPage = () => {
     return (
-      
-     <div className="container teal #e3f2fd pink lighten-5"> 
+      <div className="row">
+     <div className="container teal #e3f2fd  lighten-5"> 
        <br />
-         <h3 className="#2962ff-text blue-text text-darken-2"><i class="material-icons">offline_pin</i>LOGIN</h3>
+         <h3 className="center-align blue-text"> 
+              LOGIN</h3>
        <hr/>
        <div className="row container">
       
@@ -55,11 +56,11 @@ const LoginPage = () => {
        </div> 
      
      </div>
-     
+     </div>
   
      
       
     )
 }
 
-export default LoginPage
+export default LoginPage;
